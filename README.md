@@ -1,2 +1,3 @@
 # Hello-world
-learning to use GitHub
+
+Hello! learned to use it, I think so!
